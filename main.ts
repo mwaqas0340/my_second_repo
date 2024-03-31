@@ -1,3 +1,5 @@
 let userName = "Waqas";
 
-console.log(userName);
+let userName2 = "Tanzeela"
+
+console.log(userName +" "+ userName2);
